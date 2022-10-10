@@ -1,9 +1,6 @@
 Project-Sentry-Gun
 ==================
-Project Site: http://psg.rudolphlabs.com/
 
-This is an open-scource code project from Rudolph Labs. See the website above for more information.
-Initiated by Bob Rudolph (sentryGun53)
+This is an open-scource code project originating from Rudolph Labs, initiated by Bob Rudolph (sentryGun53)
 
-projectSentryGun@rudolphLabs.com
-sentryGun53@gmail.com
+I am updating the code for it to work best with Processing 4 and modifying it to operate my unique design of my Nerf Sentry turret
